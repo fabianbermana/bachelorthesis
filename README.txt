@@ -1,6 +1,6 @@
-#### ===================================== ####
-     Bachelor Thesis Code - Fabian Bermana
-#### ===================================== ####
+=====================================
+     #Bachelor Thesis Code - Fabian Bermana
+=====================================
 
 This document describes the content of this code base and datasets. All code that produce output have been stored in Jupyter notebooks. Additional script files contain code required for these notebooks to run.
 
