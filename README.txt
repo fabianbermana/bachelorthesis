@@ -1,6 +1,10 @@
-#### ===================================== ####
-     Bachelor Thesis Code - Fabian Bermana
-#### ===================================== ####
+================================
+Bachelor Thesis - Fabian Bermana
+================================
+
+Final version of the thesis is: Bachelor Thesis_Fabian Bermana.pdf
+
+The thesis is a replication and extension of Zhang et al (2020).
 
 This document describes the content of this code base and datasets. All code that produce output have been stored in Jupyter notebooks. Additional script files contain code required for these notebooks to run.
 
@@ -24,7 +28,7 @@ This document describes the content of this code base and datasets. All code tha
 
 - data_stocks.csv: main dataset, cleaned and formatted
 
-- GoyalData_2021.csv: raw data from website of Amit Goyal
+- GoyalData_2021.csv: raw data from website of Amit Goyal: https://sites.google.com/view/agoyal145/?redirpath=/
 
 
 ### Python Script Files ###
